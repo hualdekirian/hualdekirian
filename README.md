@@ -1,16 +1,13 @@
-## Hi there 👋
+# Kirian Hualde
 
-<!--
-**hualdekirian/hualdekirian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estudiante de [Cuatrovientos](https://cuatrovientos.org)
 
-Here are some ideas to get you started:
+**¡Hola!** Bienvenido a mi repositorio de _código_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy estudiando
+- Visual Basic
+- Java
+- HTML
+- CSS
+
+![Logo_Cuatrovientos](https://cuatrovientos.org/wp-content/uploads/2025/01/LOGO-CENTRO-INTEGRADO-CUATROVIENTOS-300x115-2.png)
